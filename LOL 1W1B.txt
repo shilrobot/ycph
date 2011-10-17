@@ -1,0 +1,64 @@
+one-blast commands:
+short : stop where you are
+long : change speed
+
+two-blast commands:
+short short : curve up and left
+short long  : 
+long  long  : 
+long  short : curve down and left
+
+three-blast-commands:
+short short short : back away from the sheep
+
+
+----
+
+shil images
+
+http://www.yoe-inc.com/Hometech/Images/1pc-toilet.jpg
+http://vader.inow.com/~drbob/car/Dash.jpg
+
+
+can poop
+========
+toilet (several)
+  http://www.planeboats.com/Other%20Pages/Photos/art/Plane/aft%20lavatory.jpg
+  http://www.gough.com.au/imagesht/hts/hts_residentialpic3.jpg
+  http://www.hansrossel.com/fotos/fotografie/ecuador/ec_s6_std.jpg
+outhouse
+  http://www.labor.state.ak.us/ada_parks/region2/chena_river_sra/misc/north_fork/north%20fork%20cabin%20outhouse,%20closer.jpg
+public bathroom
+  http://www.xs4all.nl/~emealus/public_toilet-sm.JPG
+  http://www.orchiddesigns.net/Assets/images/China2004/Jinghong%20public%20toilet%201630.jpg
+middle of a forest
+  http://www.e-cobo.com/wallpapers/forest/forest_8.jpg
+japanese bathroom
+  http://users.bestweb.net/~bennetc/JPNLowToilet.jpg
+
+can't poop
+==========
+wedding ceremony
+  http://c3po.barnesos.net/~polaris/wedding/Ceremony/Wed-Ceremony4.jpg
+bar mitzvah
+interior of an airplane (not lavatory) - cockpit?
+  http://www.screaming-eagles.org/Pictures/Tomcat%20Rear%20Cockpit.jpg
+  http://dannysdesktop.themesunlimited.com/Files/nasa/cockpit.jpg
+knighting ceremony
+martial arts dojo
+  http://www.roskildeaikidoklub.dk/gal_b/images/02_inside_Ibaraki_shibu_dojo(Iwama-dojo).JPG
+elementary school classroom
+  http://www.house.gov/hensarling/images/classroom.jpg
+factory floor
+  http://www.singapore-resources.com/factory/sri_factory_floor_2.jpg
+graduation ceremony
+  http://www.wvutech.edu/students/international/Pictures/graduation-ceremony.jpg
+food packaging plant
+box full of kittens
+  http://noisehavoc.org/~mjs/pictures/box%20o'%20kittens%20drinking%20milk.jpg
+volleyball game
+trunk of a car
+dave matthews concert
+oval office
+david letterman's guest chair
+congress
