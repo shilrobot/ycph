@@ -16,7 +16,7 @@ Ravuya - Holding the 1W1B competition
 PLUGS:
 ======
 SHilbert's site: http://www.shilbert.com/
-1W1B site: http://dime39.dizinc.com/~rav/ravwiki/index.php/1W1B
+1W1B site: http://ravuya.com/1w1b/
 
 RUNNING IN WINDOWED MODE:
 =========================
